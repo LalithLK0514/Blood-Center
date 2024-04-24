@@ -84,6 +84,9 @@
   <div class="py-3">
     <h2 class="text-center">About Us</h2>
   </div>
+          <li class="nav-item">
+        <a class="nav-link" href="chat.html">Chat</a>
+      </li>
 
   <div class="container">
     <div class="row">
