@@ -74,7 +74,7 @@ Follow these steps to set up the blood centre management system:
 
 1.Clone the Repository:
 Open a terminal or command prompt and clone the project repository from GitHub:
-git clone https://github.com/your/https://github.com/LalithLK0514/Blood-Center
+git clone https://github.com/LalithLK0514/Blood-Center
 
 
 2.Navigate to Project Directory:
