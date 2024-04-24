@@ -179,7 +179,7 @@ CREATE TABLE `receivers` (
 --
 
 INSERT INTO `receivers` (`id`, `rname`, `remail`, `rpassword`, `rphone`, `rbg`, `rcity`) VALUES
-(1, 'test', 'test@gmail.com', 'test', '8875643456', 'A+', 'lucknow'),
+(1, 'Ajith', 'ajith@gmail.com', 'ajith', '8875643456', 'A+', 'chennai'),
 (4, 'Chandana', 'xyz@gmail.com', 'xyz@47', '9902477355', 'B+', 'Ballari'),
 (5, 'Rithish', 'abcd@gmail.com', 'rithish', '9380073433', 'B+', 'Tirupathi'),
 (6, 'Akshay', 'klmn@gmail.com', 'akshay74', '8106298053', 'B+', 'Hyderabad'),
