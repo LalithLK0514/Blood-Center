@@ -84,7 +84,7 @@ cd repository
 3.Create Virtual Environment:
 Set up a virtual environment for the project to manage dependencies:
 $ sudo dnf update
-$ sudo dnf install https://rpms.remirepo.net/enterprise/remi-release-9.rpm
+$ sudo dnf install 
 $ sudo dnf module list php
 $ sudo dnf module enable php:remi-<VERSION>
 $ sudo dnf install php 
