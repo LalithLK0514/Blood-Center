@@ -134,9 +134,7 @@
           <div class="carousel-item">
             <img src="image/u-profile3.avif" alt="Chicago" width="1100" height="500">
           </div>
-          <div class="carousel-item">
-            <img src="image/rbc6.jpg" alt="New York" width="1100" height="500">
-          </div>
+          
         </div>
         <!-- Left and right controls -->
   <a class="carousel-control-prev" href="#demo" data-slide="prev">
