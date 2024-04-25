@@ -210,8 +210,32 @@ Ajith Kumar R
 Role:Voice Over 
 Responsibilities:Give step by step voice to guide the project
 
+![Screenshot (75)](https://github.com/LalithLK0514/Blood-Center/assets/162984639/9ef67e56-fa30-4b47-be12-61c89451ef8c)
+![Screenshot (78)](https://github.com/LalithLK0514/Blood-Center/assets/162984639/e9cc94d5-a305-418a-872f-3f8195a171da)
+![Screenshot (80)](https://github.com/LalithLK0514/Blood-Center/assets/162984639/3bd0e9f2-62d2-463b-94d6-1770182d1b94)
+![Screenshot (81)](https://github.com/LalithLK0514/Blood-Center/assets/162984639/6724d946-f6be-4c37-be53-5dfe27f1bd4c)
+![Screenshot (82)](https://github.com/LalithLK0514/Blood-Center/assets/162984639/ac71dda9-756a-458a-9890-8102577bcfe5)
+![Screenshot (83)](https://github.com/LalithLK0514/Blood-Center/assets/162984639/d0c0b8c1-e735-46d3-8a44-a510b44558f7)
+![Screenshot (84)](https://github.com/LalithLK0514/Blood-Center/assets/162984639/2928b31c-f770-418e-a8f5-a31fa4098fe9)
+![Screenshot (85)](https://github.com/LalithLK0514/Blood-Center/assets/162984639/ea642220-d9fa-4ffb-a15e-4821cc5a7c2c)
+![Screenshot (86)](https://github.com/LalithLK0514/Blood-Center/assets/162984639/361e78f1-0bf0-4e22-b5de-4ee5308b1441)
+![Screenshot (87)](https://github.com/LalithLK0514/Blood-Center/assets/162984639/563f2808-6165-4af5-af5d-7b1f5bfe3028)
+![Screenshot (88)](https://github.com/LalithLK0514/Blood-Center/assets/162984639/4dffeda5-848a-48ec-9fb2-0c6705444b5f)
+![Screenshot (89)](https://github.com/LalithLK0514/Blood-Center/assets/162984639/88bfe970-13c9-4908-a600-0bed4feb897c)
 
-![Screenshot (75)](https://github.com/LalithLK0514/Blood-Center/assets/162984639/ced15f45-ce45-4180-a66c-24f9fb225849)
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
