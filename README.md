@@ -211,13 +211,11 @@ Role:Voice Over
 Responsibilities:Give step by step voice to guide the project
 
 
+![Screenshot (75)](https://github.com/LalithLK0514/Blood-Center/assets/162984639/ced15f45-ce45-4180-a66c-24f9fb225849)
 
 
 
 
-
-
-Demo Screenshot
 
  
                    
