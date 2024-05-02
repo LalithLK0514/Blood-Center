@@ -107,8 +107,8 @@ Apply database migrations and initialize the database schema:
 
 python manage.py db upgrade
 Run the Application:Start the development server to run the Blood Center:
-
-http://52.146.10.96/Blood-Center/index.php
+[
+http://52.146.10.96/Blood-Center/index.php](http://bcenter.centralindia.cloudapp.azure.com/project1/Blood-Center/)
 
 
 Configuration and Customization
@@ -227,7 +227,8 @@ Responsibilities:Give step by step voice to guide the project
 
 
 
-
+## demo url 
+http://bcenter.centralindia.cloudapp.azure.com/project1/Blood-Center/
 
 
 
