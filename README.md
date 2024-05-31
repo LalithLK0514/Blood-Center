@@ -1,5 +1,7 @@
 ## BLOOD CENTRE
 
+I was submitted my Future Ready Talent group project in 02/05/2024. The project as been rejected due to demo link not working. Now I resubmit my project.
+
 Abstract Blood Centre
 
 Blood Centre management plays a critical role in ensuring the availability and safety of blood products for medical treatment and emergencies. This abstract provides an overview of the key aspects and importance of effective blood Centre management systems.
