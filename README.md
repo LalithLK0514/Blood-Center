@@ -204,7 +204,7 @@ Backup and Disaster Recovery: Set up backups and disaster recovery plans for you
 
 By following these steps, you'll successfully deploy your blood center project in the Azure cloud computing environment, leveraging scalable and managed services provided by Microsoft Azure.
 
-Contribution
+## Contribution
 
 Lalith Kannan R
 Role:Front end
@@ -237,7 +237,6 @@ Responsibilities:Give step by step voice to guide the project
 
 ## Project Demo Screenshot
 
-![Screenshot (118)](https://github.com/LalithLK0514/Blood-Center/assets/120627631/3c5ec170-840a-40b5-b906-096931d1304f)
 ![Screenshot (119)](https://github.com/LalithLK0514/Blood-Center/assets/120627631/04aac17a-ff6c-4137-84f2-0cb69f74ee9e)
 ![Screenshot (120)](https://github.com/LalithLK0514/Blood-Center/assets/120627631/1e70816a-41a9-49d0-a38f-57055a6c555a)
 ![Screenshot (121)](https://github.com/LalithLK0514/Blood-Center/assets/120627631/fbb02696-5194-4f4e-a207-a93a75453ba5)
