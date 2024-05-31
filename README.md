@@ -235,34 +235,32 @@ Responsibilities:Give step by step voice to guide the project
 ![Screenshot (88)](https://github.com/LalithLK0514/Blood-Center/assets/162984639/4dffeda5-848a-48ec-9fb2-0c6705444b5f)
 ![Screenshot (89)](https://github.com/LalithLK0514/Blood-Center/assets/162984639/88bfe970-13c9-4908-a600-0bed4feb897c)
 
-## project Demo Screenshot
+## Project Demo Screenshot
 
-![Screenshot (32)](https://github.com/LalithLK0514/Blood-Center/assets/120627631/806ec54e-6a04-49fa-9208-1760770280a2)
-![Screenshot (33)](https://github.com/LalithLK0514/Blood-Center/assets/120627631/ef930219-bbc7-4edd-9e03-34628bec3741)
-![Screenshot (34)](https://github.com/LalithLK0514/Blood-Center/assets/120627631/69fc2699-c8ba-4f45-ab78-bda75503e3d5)
-![Screenshot (35)](https://github.com/LalithLK0514/Blood-Center/assets/120627631/6475e1da-345e-4e30-a901-a2dc103e2a4c)
-![Screenshot (36)](https://github.com/LalithLK0514/Blood-Center/assets/120627631/89f590cf-c426-43b7-a8e4-27f741f275d1)
-![Screenshot (37)](https://github.com/LalithLK0514/Blood-Center/assets/120627631/ddd569a1-e020-4bf4-9a2c-282489d9ff9c)
-![Screenshot (38)](https://github.com/LalithLK0514/Blood-Center/assets/120627631/b5a9c663-2a47-4a1f-8ce6-f49e2bb7ec8d)
-![Screenshot (39)](https://github.com/LalithLK0514/Blood-Center/assets/120627631/214ce677-9431-40e1-85c1-6cc8af5bd3e9)
-![Screenshot (40)](https://github.com/LalithLK0514/Blood-Center/assets/120627631/212c1ab6-71e4-4e2f-a0ba-f7bc7dee5f30)
-![Screenshot (41)](https://github.com/LalithLK0514/Blood-Center/assets/120627631/a01b51af-7b48-4554-9ad7-b39d1e2909ef)
-![Screenshot (42)](https://github.com/LalithLK0514/Blood-Center/assets/120627631/4e416e1f-ed7c-48aa-9c9d-59bf0ac1fbfd)
-![Screenshot (44)](https://github.com/LalithLK0514/Blood-Center/assets/120627631/22006e3c-09e8-48b5-b097-72e388c94c40)
-![Screenshot (43)](https://github.com/LalithLK0514/Blood-Center/assets/120627631/ad603eb7-e36c-43c5-a749-3e3366863bcb)
-![Screenshot (45)](https://github.com/LalithLK0514/Blood-Center/assets/120627631/3efa5aea-94c0-4d41-b587-31c748fea6c8)
-![Screenshot (46)](https://github.com/LalithLK0514/Blood-Center/assets/120627631/b79ba783-7767-4674-a869-cf6be912a500)
-![Screenshot (47)](https://github.com/LalithLK0514/Blood-Center/assets/120627631/8e87f558-acf0-4ffa-8280-c632c5f8a9ba)
-![Screenshot (48)](https://github.com/LalithLK0514/Blood-Center/assets/120627631/b33e33ce-a1a4-47a7-ace4-83ec81937b20)
-![Screenshot (49)](https://github.com/LalithLK0514/Blood-Center/assets/120627631/318f1e48-cb59-422c-99a8-8c821642b795)
-![Screenshot (50)](https://github.com/LalithLK0514/Blood-Center/assets/120627631/68c04b58-0e44-4a6c-8a74-0626ddc58d22)
-
+![Screenshot (118)](https://github.com/LalithLK0514/Blood-Center/assets/120627631/3c5ec170-840a-40b5-b906-096931d1304f)
+![Screenshot (119)](https://github.com/LalithLK0514/Blood-Center/assets/120627631/04aac17a-ff6c-4137-84f2-0cb69f74ee9e)
+![Screenshot (120)](https://github.com/LalithLK0514/Blood-Center/assets/120627631/1e70816a-41a9-49d0-a38f-57055a6c555a)
+![Screenshot (121)](https://github.com/LalithLK0514/Blood-Center/assets/120627631/fbb02696-5194-4f4e-a207-a93a75453ba5)
+![Screenshot (122)](https://github.com/LalithLK0514/Blood-Center/assets/120627631/d0ef7e6a-d989-4dde-b207-95b5bdbc9bb9)
+![Screenshot (123)](https://github.com/LalithLK0514/Blood-Center/assets/120627631/d0780442-0389-4a37-875f-f00ed4fcb1a5)
+![Screenshot (124)](https://github.com/LalithLK0514/Blood-Center/assets/120627631/3d309787-3300-46e2-ac47-25e72ac7bfcf)
+![Screenshot (125)](https://github.com/LalithLK0514/Blood-Center/assets/120627631/180fdbf2-f54a-4993-8dd9-1d221edb9755)
+![Screenshot (126)](https://github.com/LalithLK0514/Blood-Center/assets/120627631/d779fbe6-8e25-44e9-a52d-53b685c3647c)
+![Screenshot (127)](https://github.com/LalithLK0514/Blood-Center/assets/120627631/eb7fd72e-d65e-4951-82cc-b998b8b35802)
+![Screenshot (128)](https://github.com/LalithLK0514/Blood-Center/assets/120627631/c77a2d09-6121-4551-9e03-ed2e1a83fd13)
+![Screenshot (129)](https://github.com/LalithLK0514/Blood-Center/assets/120627631/b39c8bdb-1484-4f84-9019-194ce643b908)
+![Screenshot (131)](https://github.com/LalithLK0514/Blood-Center/assets/120627631/4ac543d1-17af-41a8-ab31-a09ad3e4a08c)
+![Screenshot (132)](https://github.com/LalithLK0514/Blood-Center/assets/120627631/57d65ee0-3a59-4a28-9010-9bccc0bae538)
+![Screenshot (133)](https://github.com/LalithLK0514/Blood-Center/assets/120627631/421a93f1-489e-4aa5-8454-c7bb13fa967d)
+![Screenshot (134)](https://github.com/LalithLK0514/Blood-Center/assets/120627631/8df355fd-5b94-469f-9a3d-56234b991155)
+![Screenshot (136)](https://github.com/LalithLK0514/Blood-Center/assets/120627631/c379eb9b-418e-407e-bf85-fe2fd69965d0)
+![Screenshot (137)](https://github.com/LalithLK0514/Blood-Center/assets/120627631/e203b1fe-f69c-40d4-9195-a4a5a84482f6)
 
 
-## demo url
+## Demo url
 http://4.227.149.226/Blood-Center/
 
-## video url
+## Video url
 https://www.youtube.com/watch?v=BFSHSzBjG-8
 
 
