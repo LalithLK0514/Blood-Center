@@ -120,7 +120,7 @@ Apply database migrations and initialize the database schema:
 python manage.py db upgrade
 Run the Application:Start the development server to run the Blood Center:
 [
-http://52.146.10.96/Blood-Center/index.php](http://bcenter.centralindia.cloudapp.azure.com/project1/Blood-Center/)
+http://4.227.149.226/Blood-Center/
 
 
 Configuration and Customization
@@ -186,7 +186,7 @@ Azure App Service will automatically deploy your project based on the configured
 
 Once the deployment is complete:
 
-Access your deployed blood center application by navigating to the URL of your Azure App Service (e.g., http://52.146.10.96/Blood-Center/index.php)
+Access your deployed blood center application by navigating to the URL of your Azure App Service (e.g., http://4.227.149.226/Blood-Center/
 
 Test your application to ensure it's running correctly in the Azure cloud environment.
 
